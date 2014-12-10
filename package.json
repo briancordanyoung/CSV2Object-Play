@@ -1,0 +1,16 @@
+{
+  "name": "usaCustomerLocationsDetails",
+  "version": "1.0.0",
+  "description": "Proper ",
+  "main": "usaCustomerLocationsDetails.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Cordan Young",
+  "license": "ISC",
+  "dependencies": {
+    "csvObject": "latest",
+    "objectList": "latest",
+    "async": "latest"
+  }
+}
